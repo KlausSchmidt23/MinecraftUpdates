@@ -1,0 +1,13 @@
+<body>
+    <header>
+        <h1>Teoria das Cores</h1>
+    </header>
+    <main>
+        <h2>Colorindo</h2>
+        <p>Inicialmente essa página está usando uma paleta de cores em tons de cinza e a ideia é substituir essas cores usando uma paleta diferente que escolhemos lá no Adobe Color.</p>
+        <p>Selecione cada um dos elementos HTML no arquivo CSS e mude as propriedades <code>color</code> e <code>background-color</code> para deixar a página mais interessante!</p>
+    </main>
+    <footer>
+        <p>Explore mais opções em:  <a href="https://color.adobe.com/pt/create" target="_blank">Adobe Color</a> e divirta-se!</p>
+    </footer>
+</body>
